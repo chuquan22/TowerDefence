@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: 976df97cec33852429d2467951de5d12
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Voidbutterfly_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 516
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab7af7ea27816b4fa4b2ff09411adb3
+      internalID: 813192003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 516
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cd7e4177bfe0849b2ef5bbee53b349
+      internalID: 1655481538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 516
+        width: 58
+        height: 56
+      alignment: 9
+      pivot: {x: 0.51137567, y: 0.46465302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee97a6b93acc12d47b5e90c931dc08c6
+      internalID: 1550958941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 516
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea43d53ae727694f910451c7b475b15
+      internalID: -1903810539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 516
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af078b6345323f7439cd7b6843b68caf
+      internalID: 1993690541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 516
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d31c0473e95964995db808b5d4ea83
+      internalID: -1069013068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 450
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fec54751dd4e14ca14d02293f6f549
+      internalID: 1367980238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 451
+        width: 61
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47763422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e78b184a5550e46a4320da40317495
+      internalID: 176790735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 451
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c349515f393820448944c8ce4db5d445
+      internalID: 252341979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 451
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d827bd609007ea49b64921dc75bd0b7
+      internalID: -460588763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 451
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3d4f913ec069f46bdfb35c0977c892
+      internalID: 820000106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_11
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 452
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057b383ed2de31b4c90d375f8f708bd0
+      internalID: 1787400249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 388
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2842da1f671cf47ba9cdb1e7d2f5c6
+      internalID: 375113335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 388
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87307a1a12f324d4aa3fe07d77681031
+      internalID: -1259647884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 388
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cb291a3750e7444acf1bcaeb822934
+      internalID: 1123416500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 390
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a11d2b7a67b1604da87e12ec53d2c14
+      internalID: -25724717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_16
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 391
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d86b62fa734e943b2f391624818e56
+      internalID: 1365689549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_17
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 391
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8ba51e7c9d7304a85a0d83b461b54b
+      internalID: 2111525860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 328
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f268fe53c471604f80ac20c8230a886
+      internalID: 384156583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 326
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea4ce295b725e84c81548321185b94a
+      internalID: -1269281181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_20
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 324
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a7eeab0a379d548970d7e434756173
+      internalID: -2031794850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_21
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 328
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66af0594cfac95345ae70d7c0bd964ad
+      internalID: -1060015629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 264
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7889316949fde4f9c4fee4330c4a9e
+      internalID: 1802406703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_23
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 262
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0b6e7a19260bd49a1e3beec7fa4420
+      internalID: -805499644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_24
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 260
+        width: 18
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57431154aa2f3e6458bc10e6dc866e16
+      internalID: -438487649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_25
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 264
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de41074ef9f717642af9c9ca74f1a0c9
+      internalID: -764325941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 200
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a1ca1bae5dafc49bc55d8cfb69aada
+      internalID: -743927056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_27
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 198
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920fe2e2ba26fc942b70d94c8baeb35b
+      internalID: 465498428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_28
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 196
+        width: 17
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379678cb21ab03744830714fccc8f2f5
+      internalID: -1832245875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_29
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 200
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c20d1f2c9b4644b8ef6a1447178746
+      internalID: 1583497441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 136
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7761526310683e44684d1a883edbb50b
+      internalID: 1828514647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_31
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 135
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebede7affea11fc4d98e52f7cbf005cd
+      internalID: 199905332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_32
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 138
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32639ec68857da4cbd1e8f99728f449
+      internalID: -1937024486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_33
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 139
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ed5bd460eebfe448d2bdda09719e23
+      internalID: 1077964124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_34
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 139
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93249a0ea8eb26c43907f23ceb30203f
+      internalID: -29117490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_35
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 138
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b481c7df1fd821e41b614c338083ecbd
+      internalID: 1267735715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_36
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 137
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f343cfd2d91f3f45894fef0773b8d95
+      internalID: 1384254381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_37
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 162
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9a450f3e85eb3429475679f1e97608
+      internalID: 2033265174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_38
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 179
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df9efc87ab6c214b9666b2104106ffb
+      internalID: -254563819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_39
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 139
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9344006316b70c3488ffdea8f6f533d2
+      internalID: 338831075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_40
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 159
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43ff146e824cf348bb9781100102bac
+      internalID: -2146430688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_41
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 136
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a9b2c646e33cb4cb6c2698a3766eb6
+      internalID: -1259962636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_42
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 5
+        width: 158
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74dd4c292e3e024ca800d60daec1fc7
+      internalID: 1762897028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_43
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 151
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31907c903782f4e43a558c54e7a53f73
+      internalID: -723293867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_44
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 140
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b68e7ace4151a74eaeb807861d3c139
+      internalID: -1223300167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 72
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d643ceacf111345808f4c8b62ae2dc
+      internalID: -67165186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_46
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 71
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414396be5d2b7744bb159f8b5af4241d
+      internalID: 164159179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_47
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 74
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e945622a694f9a4dab34a2b51e7d737
+      internalID: -552253549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_48
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 75
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd03a2dbbe8652c459e3f13f84d29a4c
+      internalID: 631296510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_49
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 75
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b4b101e1fa20a4383a695c1237c51b
+      internalID: 1302677356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_50
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 74
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e61753bb66173843bedc33c6fd89b44
+      internalID: 1939089120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_51
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 73
+        width: 69
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9150f39c0aa25f4f9e7575b01888848
+      internalID: 1546647320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_52
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 95
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687b3ef7b11f0e142a5310f6ea93829e
+      internalID: -1820381831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_53
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 100
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504de7a3d3ef18d40b51a4ba16404838
+      internalID: -1950089683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_54
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 54
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1037b8b7e29a73047aceffab4b4a8693
+      internalID: 612090196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_55
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 115
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4318336ba1207774db0e35dd607a554c
+      internalID: -1994012199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_56
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 99
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083f9d4d40e6d4245b3514a9825fb69c
+      internalID: -25508699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_57
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 97
+        width: 9
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a95c0f71aa309d42be4341470511c5c
+      internalID: 1785360281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_58
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 86
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bef6d596045384eb537553e30272d3
+      internalID: 1403269612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_59
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 87
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea76b5cab12aedc4b9c6945045ca63ed
+      internalID: 430844830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_60
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 76
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c15c58c2b685b4abb4553450d87254
+      internalID: 498409612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_61
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 71
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1e3e0a31e8fd74f9ac81b00208d179
+      internalID: -864514869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_62
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd4e559321891441b54baefd0629207
+      internalID: -1097020694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_63
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 7
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fa952ff90dbf84992e6eb4509af7a2
+      internalID: -1262022412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_64
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 10
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6c04aedf3a666468c3ccbee69adb9e
+      internalID: 1812428463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_65
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 11
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e05001f82a24a468a487ccf537990f
+      internalID: -2009649869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_66
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 11
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b912bb8d0b4894cb58cf1675112b00
+      internalID: 1851180269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_67
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 10
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41899599b378bcf4ba464c5d3b735e1e
+      internalID: -164200053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_68
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 9
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66285d9cff2264e4f9f7a3a4bcb5cefa
+      internalID: 1242449233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_69
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 47
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3ee9a206f8a594eb2e789d69569d75
+      internalID: -296664512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_70
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 34
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430b2af2181c5fe419a4aa9b17f28ef1
+      internalID: 1457536833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_71
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 35
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f618a2ba431ef4bbb11cb0f5f8fb4f
+      internalID: -2123911328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_72
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 27
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ed5a22c0ac3e94b8e4a0f4346a6df3
+      internalID: 236402344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_73
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 9
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25142de3187a2f468483af0ad3edd74
+      internalID: -1851320092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_74
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 12
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c4eaabc12a6c84c9a84ae2540ca0fa
+      internalID: -5294523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Voidbutterfly_75
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 8
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e11d6f99b393a40a8a450549f6c040
+      internalID: 493202596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Voidbutterfly_59: 430844830
+      Voidbutterfly_7: 176790735
+      Voidbutterfly_26: -743927056
+      Voidbutterfly_64: 1812428463
+      Voidbutterfly_46: 164159179
+      Voidbutterfly_1: 1655481538
+      Voidbutterfly_21: -1060015629
+      Voidbutterfly_17: 2111525860
+      Voidbutterfly_29: 1583497441
+      Voidbutterfly_27: 465498428
+      Voidbutterfly_43: -723293867
+      Voidbutterfly_44: -1223300167
+      Voidbutterfly_15: -25724717
+      Voidbutterfly_45: -67165186
+      Voidbutterfly_3: -1903810539
+      Voidbutterfly_4: 1993690541
+      Voidbutterfly_73: -1851320092
+      Voidbutterfly_61: -864514869
+      Voidbutterfly_16: 1365689549
+      Voidbutterfly_36: 1384254381
+      Voidbutterfly_50: 1939089120
+      Voidbutterfly_66: 1851180269
+      Voidbutterfly_9: -460588763
+      Voidbutterfly_75: 493202596
+      Voidbutterfly_69: -296664512
+      Voidbutterfly_8: 252341979
+      Voidbutterfly_18: 384156583
+      Voidbutterfly_33: 1077964124
+      Voidbutterfly_40: -2146430688
+      Voidbutterfly_41: -1259962636
+      Voidbutterfly_10: 820000106
+      Voidbutterfly_35: 1267735715
+      Voidbutterfly_37: 2033265174
+      Voidbutterfly_30: 1828514647
+      Voidbutterfly_72: 236402344
+      Voidbutterfly_48: 631296510
+      Voidbutterfly_28: -1832245875
+      Voidbutterfly_23: -805499644
+      Voidbutterfly_53: -1950089683
+      Voidbutterfly_67: -164200053
+      Voidbutterfly_19: -1269281181
+      Voidbutterfly_71: -2123911328
+      Voidbutterfly_25: -764325941
+      Voidbutterfly_68: 1242449233
+      Voidbutterfly_5: -1069013068
+      Voidbutterfly_32: -1937024486
+      Voidbutterfly_65: -2009649869
+      Voidbutterfly_51: 1546647320
+      Voidbutterfly_22: 1802406703
+      Voidbutterfly_13: -1259647884
+      Voidbutterfly_11: 1787400249
+      Voidbutterfly_24: -438487649
+      Voidbutterfly_58: 1403269612
+      Voidbutterfly_47: -552253549
+      Voidbutterfly_70: 1457536833
+      Voidbutterfly_39: 338831075
+      Voidbutterfly_31: 199905332
+      Voidbutterfly_52: -1820381831
+      Voidbutterfly_57: 1785360281
+      Voidbutterfly_6: 1367980238
+      Voidbutterfly_12: 375113335
+      Voidbutterfly_49: 1302677356
+      Voidbutterfly_34: -29117490
+      Voidbutterfly_0: 813192003
+      Voidbutterfly_54: 612090196
+      Voidbutterfly_56: -25508699
+      Voidbutterfly_38: -254563819
+      Voidbutterfly_2: 1550958941
+      Voidbutterfly_60: 498409612
+      Voidbutterfly_62: -1097020694
+      Voidbutterfly_14: 1123416500
+      Voidbutterfly_20: -2031794850
+      Voidbutterfly_74: -5294523
+      Voidbutterfly_55: -1994012199
+      Voidbutterfly_63: -1262022412
+      Voidbutterfly_42: 1762897028
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
